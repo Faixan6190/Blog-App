@@ -1,0 +1,24 @@
+body {
+  background-color: #c9d6ff;
+  background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+}
+.cus-nav {
+  background: linear-gradient(to right, #5c6bc0, #512da8);
+}
+.cus-btn {
+  background-color: #5c6bc0;
+}
+.cus-btn:hover {
+  background-color: #512da8;
+}
+.cus-input {
+  border-radius: 20px;
+  padding-left: 10px;
+}
+.cus-text-area {
+  border-radius: 30px;
+}
+.cus-modal {
+  background-color: #e2e2e2;
+  border-radius: 20px;
+}
